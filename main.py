@@ -6,7 +6,7 @@
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}, nice!')  # Press ⌘F8 to toggle the breakpoint.
+    print(f'Hi, {name}, nice job! Today is March 23，2023')  # Press ⌘F8 to toggle the breakpoint.
 
 
 # Press the green button in the gutter to run the script.
